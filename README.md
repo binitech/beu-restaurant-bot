@@ -1,6 +1,6 @@
-# ⚡ Skeleton for aiogram Bot 😋 
+# ⚡ BeU Restaurant Bot 😋 
 
-- A Skeleton for aiogram bot
+- A simulation bot for managing orders for restaurants
 
 ## ⚡ Vars: 🔥
 
@@ -11,6 +11,12 @@
 ## ⚡ Bot Features: 🔥
 
 ### Admin Panel
+- Register a restaurant by their phone number
+- Send fake order for a registered restaurants
+
+### Restaurant Section
+- Restaurants can see active, prepared, completed and declined orders.
+- Dashboard to display restaurant information like total earnings, order counts....
 
 ## Author
 
